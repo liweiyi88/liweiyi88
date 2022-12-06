@@ -1,4 +1,4 @@
-Hello, 👋 I am Julian, a software maker, consultant and a Gopher.
+Hello, 👋 I am Julian, a software maker, consultant and Gopher.
 
 
 
