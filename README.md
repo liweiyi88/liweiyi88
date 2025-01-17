@@ -2,7 +2,7 @@ Hello, 👋 I am Julian, a software maker, consultant and Gopher.
 
 
 
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=liweiyi88)](https://github.com/liweiyi88/github-readme-stats)
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=liweiyi88)]
 
 <!--
 **liweiyi88/liweiyi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
